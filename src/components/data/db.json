@@ -1,0 +1,62 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "DoceMel",
+      "email": "docemel@gmail.com",
+      "senha": "brigadeiro123"
+    }
+  ],
+  "produtos": [
+    {
+      "nome": "Brigadeiro",
+      "descricao": "Melhor brigadeiro do mundo",
+      "categoria": "Doces",
+      "preco": "10.00",
+      "imagemUrl": "https://t3.ftcdn.net/jpg/00/51/25/70/360_F_51257090_nRwT7YiPRp6TTyB6YnipFrxfd7XLGQLt.jpg",
+      "id": "1"
+    },
+    {
+      "nome": "Bolo",
+      "descricao": "Bolo de chocolate",
+      "categoria": "Bolo",
+      "preco": "20.00",
+      "imagemUrl": "https://img.freepik.com/fotos-premium/bolo-de-chocolate-hd-8k-wallpaper-banco-de-imagem-fotografica_853645-35602.jpg",
+      "id": "2"
+    },
+    {
+      "nome": "Torta",
+      "descricao": "Torta de morango",
+      "categoria": "Torta",
+      "preco": "30.00",
+      "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmfoSKwAZH8wQZF7szKVJcGoI8ebwrnfe_cQ&s",
+      "id": "3"
+    },
+    {
+      "nome": "Fanta laranja",
+      "descricao": "Bebida de qualidade",
+      "categoria": "bebidas",
+      "preco": "40.00",
+      "imagemUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYKuJRKiIX8IhfZIC57eFTDOVEBuUqlhptKA&s",
+      "id": "4"
+    }
+  ],
+  "categorias": [
+    {
+      "id": "1",
+      "nome": "Doces"
+    },
+    {
+      "id": "2",
+      "nome": "Bolo"
+    },
+    {
+      "id": "3",
+      "nome": "Torta"
+    },
+    {
+      "id": "4",
+      "nome": "Bebidas"
+    }
+  ]
+}
